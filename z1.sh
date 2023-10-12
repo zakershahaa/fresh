@@ -43,5 +43,4 @@ case $choice in
     echo "Invalid choice. Please select a valid operation (1/2/3/4)."
     ;;
 esac
-
-
+echo "how you fill this calculator"
